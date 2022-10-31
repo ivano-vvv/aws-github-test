@@ -8,8 +8,8 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "lint": "eslint ./src",
-    "check-format": "prettier --check .",
-    "prettify": "prettier --write ."
+    "check-format": "prettier --check ./src",
+    "prettify": "prettier --write ./src"
   },
   "dependencies": {
     "react": "^18.2.0",
